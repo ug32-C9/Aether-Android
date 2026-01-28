@@ -7,3 +7,5 @@ Aether is a high-performance script executor for Roblox Android, rebuilt for sta
 * [ ] everything is fixed... more fixes soon!
 * [ ] Consider Contributing to us so roblox can't removed us for existance.
 * [ ] join the aether-android development! for more powerful executors!
+* [ ] BTW ONLY THE OFFSETS ARE OUTDATED BUT THE VMS, AND THE BYTES ARE UPDATED.
+* [ ] NEW METHODS WERE ADDED TOO SOME ARE OLD BUT STILL WORKS

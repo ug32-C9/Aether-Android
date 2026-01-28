@@ -1,11 +1,11 @@
 # AetherV2
-Roblox Android 64-bit Script Executor.
+Roblox Android 64-bit Script Executor
 
-Aether is a high-performance script executor for Roblox Android, rebuilt for stability and 64-bit support.
+Aether is a high-performance script executor for Roblox on Android, rebuilt for improved stability and full 64-bit support.
 
 ## TODO
-* [ :white_check_mark: ] everything is fixed... more fixes soon!
-* [ :white_check_mark: ] Consider Contributing to us so roblox can't removed us for existance.
-* [ :white_check_mark: ] join the aether-android development! for more powerful executors!
-* [ :white_check_mark: ] BTW ONLY THE OFFSETS ARE OUTDATED BUT THE VMS, AND THE BYTES ARE UPDATED.
-* [ :white_check_mark: ] NEW METHODS WERE ADDED TOO SOME ARE OLD BUT STILL WORKS
+- [x] Core functionality fixed — additional improvements coming soon!
+- [x] Consider contributing to help maintain the project's availability.
+- [x] Join the Aether-Android development community to build more powerful executors!
+- [x] Note: Only the memory offsets are outdated; the virtual machines (VMs) and bytecode implementations remain up to date.
+- [x] New execution methods have been added. Some legacy methods are retained and continue to function correctly.
